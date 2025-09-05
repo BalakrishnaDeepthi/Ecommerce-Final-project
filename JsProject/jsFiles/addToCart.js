@@ -46,7 +46,5 @@ function removeItem(itemId){
     alert("product removed from cart")
     displayData()
     console.log(cart);
-    
-
 }
 displayData();
