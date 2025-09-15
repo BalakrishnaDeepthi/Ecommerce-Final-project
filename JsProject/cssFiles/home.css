@@ -67,6 +67,7 @@ input{
     border : 1px solid blue;
     font-weight: 100;
 }
+
 .card:hover{
     transform: translateY(-5px);
     border: 2px solid black;
